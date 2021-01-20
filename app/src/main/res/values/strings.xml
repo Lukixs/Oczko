@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Oczko</string>
+    <string name="banker">Banker</string>
+    <string name="gracz">Gracz</string>
+    <string name="pass">Pass</string>
+    <string name="add_card">Add Card</string>
+    <string name="player_score">0</string>
+    <string name="banker_points">0</string>
+    <string name="banker_score">0</string>
+    <string name="player_points">0</string>
+    <string name="next">next</string>
+    <string name="colon">:</string>
+    <string name="gameName">Oczko</string>
+    <string name="startButton">Start</string>
+    <string name="logo_oczko">Logo Oczko</string>
+    <string name="number">number</string>
+    <string name="player_name">Player Name</string>
+    <string name="circle">Circle</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="exit">Exit</string>
+</resources>
